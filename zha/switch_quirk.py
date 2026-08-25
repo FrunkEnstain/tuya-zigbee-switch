@@ -230,7 +230,7 @@ class CustomWindowCoveringCluster(CustomCluster, WindowCovering):
 ``````````````````````````````````````````````````````````````````'''
 
 CONFIGS = [
-    "5ftkaulg;TS0011-DK;SC3u;RC2D4;IB7i;M;",
+    "5ftkaulg;TS0011-DK;SC3;RC2D4;IB7;M;",
 ]
 
 for config in CONFIGS:

@@ -1,12 +1,12 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-95573397.zigbee",
+    "fileName": "tlc_switch-1.1.2-eb96d5e9.zigbee",
     "fileVersion": 285356032,
     "fileSize": 180978,
-    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/42d9d1ccc7862a4b83262982a8f1a92738e935e4/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-95573397.zigbee",
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-eb96d5e9.zigbee",
     "imageType": 46789,
     "manufacturerCode": 4417,
-    "sha512": "321951d41ad92e30259ed934067640e41de58b12d782fea1da574c44b339f2360e58dc1dfcc495daaf90d710b3a23ed73fc06b97feeeda67181804c3714cfd7b",
+    "sha512": "5cf60ecb07fcd2f0fb3c1ec4b781e3e5c325c3f99a618bdaf8e5c64b7d76d3342e47ddd09e9ceab88046fdefba5aeffd0b8eae75c9abba63361f2f47aa1d0d6c",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_5ftkaulg",
@@ -14,13 +14,13 @@
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.2-95573397-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.2-eb96d5e9-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 180978,
-    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/42d9d1ccc7862a4b83262982a8f1a92738e935e4/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-95573397-from_tuya.zigbee",
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-eb96d5e9-from_tuya.zigbee",
     "imageType": 54179,
     "manufacturerCode": 4417,
-    "sha512": "5eb563087c2382575abaccd5f8422dcab9018d8778d322f5b1b86916a7f912825e9d0f8acb59772edc84062a37bd25e6b132c722f046d07e812873d03e1741d1",
+    "sha512": "e0fdcb4a0f17e006b5615e99a03c9ad26091247a49e54d20a5da07ba5d760a43004c5495f5e94481fda181e4828ea3a5ab6f19ff5e4172c734fb1841c0a4b32a",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
       "_TZ3000_5ftkaulg",
