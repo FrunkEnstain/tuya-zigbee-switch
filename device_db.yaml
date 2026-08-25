@@ -7,8 +7,8 @@ MODULE_TUYA_TS0011_DK:
   device_type: end_device
   stock_model_name: TS0011
   stock_manufacturer_name: _TZ3000_5ftkaulg
-  stock_converter_manufacturer: Tuya
-  stock_converter_model: TS0011
+  stock_converter_manufacturer: null
+  stock_converter_model: null
   override_z2m_device: null
   tuya_module: ZT3L
   mcu_family: Telink
