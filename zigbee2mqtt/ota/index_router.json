@@ -1,16 +1,30 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-3ec83f7f.zigbee",
+    "fileName": "tlc_switch-1.1.2-95573397.zigbee",
     "fileVersion": 285356032,
-    "fileSize": 190102,
-    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/32d9b47c1ba5c805166e6b231a40250651f7ce27/bin/router/SWITCH_ZEMISMART_2_TS0011/tlc_switch-1.1.2-3ec83f7f.zigbee",
-    "imageType": 45589,
-    "manufacturerCode": 4169,
-    "sha512": "772b6788e8678f90cbcff1a08a02145e4f79cee4c56a5af9781ecc57c0eee2ba778cadb7ff5b20c628df35207520c95ce584bbbc3c67bcd8a0448cf242a5ee65",
-    "otaHeaderString": "Custom zigbee firmware\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "fileSize": 180978,
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-95573397.zigbee",
+    "imageType": 46789,
+    "manufacturerCode": 4417,
+    "sha512": "321951d41ad92e30259ed934067640e41de58b12d782fea1da574c44b339f2360e58dc1dfcc495daaf90d710b3a23ed73fc06b97feeeda67181804c3714cfd7b",
+    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_ilauzyjm",
-      "ilauzyjm"
+      "_TZ3000_5ftkaulg",
+      "5ftkaulg"
+    ]
+  },
+  {
+    "fileName": "tlc_switch-1.1.2-95573397-from_tuya.zigbee",
+    "fileVersion": 4294967295,
+    "fileSize": 180978,
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-95573397-from_tuya.zigbee",
+    "imageType": 54179,
+    "manufacturerCode": 4417,
+    "sha512": "5eb563087c2382575abaccd5f8422dcab9018d8778d322f5b1b86916a7f912825e9d0f8acb59772edc84062a37bd25e6b132c722f046d07e812873d03e1741d1",
+    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "_TZ3000_5ftkaulg",
+      "5ftkaulg"
     ]
   }
 ]

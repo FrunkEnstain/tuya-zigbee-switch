@@ -41,7 +41,6 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 
 | 🚧 | 📦 | 💡 | ⚡️ | 📲 |  🏭  | Zb&nbsp;Manufacturer <br> Zb&nbsp;Model | Name <br> Z2M&nbsp;page&nbsp;🔗 | Store | Threads | Status |
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
-| 🟧 | ❌️ | 🇸 | 🔌 | 🛜 | **TL** | `_TZ3000_5ftkaulg` <br> `TS0011` | [DK SW-1G-ZB](https://www.zigbee2mqtt.io/devices/None.html) |   |   | Needs ID and pinout confirmation | 
-| 🟩 | ✔️ | 🇸 | 🔌 | ➿ | **SL** | `_TZ3000_ilauzyjm` <br> `TS0011` | [Zemismart 1-gang switch](https://www.zigbee2mqtt.io/devices/TS0011.html) | [`Store`](https://www.zemismart.com/products/kes-606us-z?VariantsId=14159) | [`#022`](https://github.com/romasku/tuya-zigbee-switch/issues/22) | Supported | 
+| 🟧 | ✔️ | 🇸 | 🔌 | 🛜 | **TL** | `_TZ3000_5ftkaulg` <br> `TS0011` | [DK SW-1G-ZB](https://www.zigbee2mqtt.io/devices/TS0011.html) |   |   | Needs ID and pinout confirmation | 
 
 Data from [`device_db.yaml`](/device_db.yaml)
