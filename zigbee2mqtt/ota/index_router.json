@@ -1,30 +1,16 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-a5d29721.zigbee",
+    "fileName": "tlc_switch-1.1.2-3ec83f7f.zigbee",
     "fileVersion": 285356032,
-    "fileSize": 180978,
-    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/b98d98121f0bf01e57188860a0c780efe14b75cb/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-a5d29721.zigbee",
-    "imageType": 46789,
-    "manufacturerCode": 4417,
-    "sha512": "1c563222ab622842c1b52e5a7204107aebac12f216b7eb74907beb1d132e2506a14b842d08b5304f5bf91febcbf499cebf9b7aaa19d3f1c3de8b370bfcc9315e",
-    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "fileSize": 190102,
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SWITCH_ZEMISMART_2_TS0011/tlc_switch-1.1.2-3ec83f7f.zigbee",
+    "imageType": 45589,
+    "manufacturerCode": 4169,
+    "sha512": "772b6788e8678f90cbcff1a08a02145e4f79cee4c56a5af9781ecc57c0eee2ba778cadb7ff5b20c628df35207520c95ce584bbbc3c67bcd8a0448cf242a5ee65",
+    "otaHeaderString": "Custom zigbee firmware\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_5ftkaulg",
-      "5ftkaulg"
-    ]
-  },
-  {
-    "fileName": "tlc_switch-1.1.2-a5d29721-from_tuya.zigbee",
-    "fileVersion": 4294967295,
-    "fileSize": 180978,
-    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/b98d98121f0bf01e57188860a0c780efe14b75cb/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-a5d29721-from_tuya.zigbee",
-    "imageType": 54179,
-    "manufacturerCode": 4417,
-    "sha512": "963a9dabcb44cd44411ece2885b9b04444b7a53dc7eedf16ad041e6caececc3ff862d235a03f04abadc4a6f227391fedacd7ef9a6081dcd9d81bd4f699ab70e7",
-    "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
-    "manufacturerName": [
-      "_TZ3000_5ftkaulg",
-      "5ftkaulg"
+      "_TZ3000_ilauzyjm",
+      "ilauzyjm"
     ]
   }
 ]

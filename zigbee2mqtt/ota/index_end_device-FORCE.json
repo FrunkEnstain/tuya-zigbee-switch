@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "fileName": "tlc_switch-1.1.2-3ec83f7f-forced.zigbee",
+    "fileVersion": 4294967295,
+    "fileSize": 177270,
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/SWITCH_ZEMISMART_2_TS0011_END_DEVICE/tlc_switch-1.1.2-3ec83f7f-forced.zigbee",
+    "imageType": 45589,
+    "manufacturerCode": 4169,
+    "sha512": "cf5f28c2d71eaee46685a53e2ab93a331b56cbfafbb239831cc7ce485de534e7d528c21d333496569e00f865b412c4aa9853fdbf1074469596da28f3bce8fcb5",
+    "otaHeaderString": "Custom zigbee firmware\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "manufacturerName": [
+      "_TZ3000_ilauzyjm",
+      "ilauzyjm"
+    ]
+  }
+]
