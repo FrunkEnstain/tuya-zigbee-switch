@@ -4,7 +4,7 @@ MODULE_TUYA_TS0011_DK:
   power: mains
   neutral: without
   output: relay_latching
-  device_type: router
+  device_type: end_device
   stock_model_name: TS0011
   stock_manufacturer_name: _TZ3000_5ftkaulg
   stock_converter_manufacturer: Tuya
