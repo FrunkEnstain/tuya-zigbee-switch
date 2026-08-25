@@ -363,7 +363,7 @@ const definitions = [
         zigbeeModel: [
             "TS0011-DK",
         ],
-        model: "TS0011",
+        model: "None",
         vendor: "Tuya-custom",
         description: "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
         extend: [

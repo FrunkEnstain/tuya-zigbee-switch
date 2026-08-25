@@ -41,6 +41,6 @@ Support new devices: [contribute/porting.md](/docs/contribute/porting.md)
 
 | 🚧 | 📦 | 💡 | ⚡️ | 📲 |  🏭  | Zb&nbsp;Manufacturer <br> Zb&nbsp;Model | Name <br> Z2M&nbsp;page&nbsp;🔗 | Store | Threads | Status |
 | -- | -- | -- | -- | -- | :--: | :-------------------------------------- | :------------------------------ | ----: | ------: | :----- |
-| 🟧 | ✔️ | 🇸 | 🔌 | 🛜 | **TL** | `_TZ3000_5ftkaulg` <br> `TS0011` | [DK SW-1G-ZB](https://www.zigbee2mqtt.io/devices/TS0011.html) |   |   | Needs ID and pinout confirmation | 
+| 🟧 | ✔️ | 🇸 | 🔌 | 🛜 | **TL** | `_TZ3000_5ftkaulg` <br> `TS0011` | [DK SW-1G-ZB](https://www.zigbee2mqtt.io/devices/None.html) |   |   | Needs ID and pinout confirmation | 
 
 Data from [`device_db.yaml`](/device_db.yaml)
