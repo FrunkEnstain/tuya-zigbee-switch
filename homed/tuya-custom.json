@@ -3,7 +3,7 @@
     {
       "description": "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
       "modelNames": [
-        "TS0011-DK"
+        "DS-1021ZC"
       ],
       "options": {
         "endpointName": {
@@ -14,7 +14,7 @@
     },
     {
       "modelNames": [
-        "TS0011-DK"
+        "DS-1021ZC"
       ],
       "exposes": [
         "multiPressResetCount"
@@ -39,7 +39,7 @@
     },
     {
       "modelNames": [
-        "TS0011-DK"
+        "DS-1021ZC"
       ],
       "properties": [
         "status",
@@ -75,7 +75,7 @@
     },
     {
       "modelNames": [
-        "TS0011-DK"
+        "DS-1021ZC"
       ],
       "exposes": [
         "pressAction",
@@ -218,7 +218,7 @@
     },
     {
       "modelNames": [
-        "TS0011-DK"
+        "DS-1021ZC"
       ],
       "exposes": [
         "relayIndicatorMode",
