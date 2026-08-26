@@ -1,5 +1,5 @@
 MODULE_TUYA_TS0011_DK:
-  human_name: DK SW-1G-ZB
+  human_name: DMDK DS-1021ZC
   category: switch
   power: mains
   neutral: without
@@ -13,7 +13,7 @@ MODULE_TUYA_TS0011_DK:
   tuya_module: ZT3L
   mcu_family: Telink
   mcu: TLSR8258
-  config_str: 5ftkaulg;TS0011-DK;SC3;RC2D4;IB7;M;
+  config_str: 5ftkaulg;DS-1021ZC;SC3u;RD4C2;IB7;M;
   alt_config_str: null
   old_manufacturer_names: null
   old_zb_models: null
