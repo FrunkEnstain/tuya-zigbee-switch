@@ -1,27 +1,29 @@
-MODULE_TUYA_TS0011_DK:
-  human_name: DMDK DS-1021ZC
+SWITCH_ZEMISMART_1_TS0012:
+  human_name: Zemismart 1-gang switch
   category: switch
   power: mains
-  neutral: without
+  neutral: optional
   output: relay_latching
   device_type: end_device
-  stock_model_name: TS0011
-  stock_manufacturer_name: _TZ3000_5ftkaulg
+  stock_model_name: TS0012
+  stock_manufacturer_name: _TZ3000_zmlunnhy
   stock_converter_manufacturer: Tuya
-  stock_converter_model: TS0011
+  stock_converter_model: TS0012
   override_z2m_device: null
   tuya_module: ZT3L
   mcu_family: Telink
   mcu: TLSR8258
-  config_str: 5ftkaulg;DS-1021ZC;SC3u;RD4C2;IB7;M;
+  config_str: zmlunnhy;Zemi-2-gang;SC3u;RC2D4;IB7;M;
   alt_config_str: null
-  old_manufacturer_names: null
-  old_zb_models: null
+  old_manufacturer_names:
+  - Zemi-1-gang
+  old_zb_models:
+  - Zemi-1-gang-ED
   stock_manufacturer_id: 4417
   stock_image_type: 54179
-  firmware_image_type: 46789
+  firmware_image_type: 43536
   build: yes
-  status: in_progress
-  info: Needs ID and pinout confirmation
-  threads: null
+  status: fully_supported
+  info: Supported
+  threads: https://github.com/romasku/tuya-zigbee-switch/issues/19
   store: null
