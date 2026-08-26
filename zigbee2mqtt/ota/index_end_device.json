@@ -1,30 +1,32 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-feb16a7f.zigbee",
+    "fileName": "tlc_switch-1.1.2-56f6a986.zigbee",
     "fileVersion": 285356032,
     "fileSize": 150402,
-    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/ab36028f6c8e3f8b0d81c98ae8f435a5a99a958d/bin/end_device/MODULE_TUYA_TS0011_DK_END_DEVICE/tlc_switch-1.1.2-feb16a7f.zigbee",
-    "imageType": 46789,
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/SWITCH_ZEMISMART_1_TS0012_END_DEVICE/tlc_switch-1.1.2-56f6a986.zigbee",
+    "imageType": 43536,
     "manufacturerCode": 4417,
-    "sha512": "b0727663d326545352759f040fd3187498c19504496686f44040e24810775501f215aa3dce671e204b75f6f11ad7ae621c904bbe7e57400208903f034bc391e9",
+    "sha512": "efe20aedd36e1393f065a94760f61a053a9ae4e2a057d0249ae8f562ebf2372190e0f2c2676d8218c0a8693a4f0597ff2dd26a189e7d358a61ed705d6969e9dc",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_5ftkaulg",
-      "5ftkaulg"
+      "_TZ3000_zmlunnhy",
+      "Zemi-1-gang",
+      "zmlunnhy"
     ]
   },
   {
-    "fileName": "tlc_switch-1.1.2-feb16a7f-from_tuya.zigbee",
+    "fileName": "tlc_switch-1.1.2-56f6a986-from_tuya.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 150402,
-    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/ab36028f6c8e3f8b0d81c98ae8f435a5a99a958d/bin/end_device/MODULE_TUYA_TS0011_DK_END_DEVICE/tlc_switch-1.1.2-feb16a7f-from_tuya.zigbee",
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/end_device/SWITCH_ZEMISMART_1_TS0012_END_DEVICE/tlc_switch-1.1.2-56f6a986-from_tuya.zigbee",
     "imageType": 54179,
     "manufacturerCode": 4417,
-    "sha512": "4720cfaa92c6e9253ba10970c20e56bb58c56e69b391fe1addcee1282669cb971d9d0d1798c6e2a270446051e2728271a7142be623b73dca3954a2f0c17e3dab",
+    "sha512": "b894c2022d187f4016401caa7d55f5e688297f582d807482a0638026861d83b47f76b43e9a089e4569a2b64857a47ca0e6d583b17c4e7c3c43d7286778f1160e",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_5ftkaulg",
-      "5ftkaulg"
+      "_TZ3000_zmlunnhy",
+      "Zemi-1-gang",
+      "zmlunnhy"
     ]
   }
 ]

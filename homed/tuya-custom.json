@@ -1,9 +1,10 @@
 {
-  "5ftkaulg": [
+  "zmlunnhy": [
     {
       "description": "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
       "modelNames": [
-        "DS-1021ZC"
+        "Zemi-2-gang",
+        "Zemi-1-gang-ED"
       ],
       "options": {
         "endpointName": {
@@ -14,7 +15,8 @@
     },
     {
       "modelNames": [
-        "DS-1021ZC"
+        "Zemi-2-gang",
+        "Zemi-1-gang-ED"
       ],
       "exposes": [
         "multiPressResetCount"
@@ -39,7 +41,8 @@
     },
     {
       "modelNames": [
-        "DS-1021ZC"
+        "Zemi-2-gang",
+        "Zemi-1-gang-ED"
       ],
       "properties": [
         "status",
@@ -75,7 +78,8 @@
     },
     {
       "modelNames": [
-        "DS-1021ZC"
+        "Zemi-2-gang",
+        "Zemi-1-gang-ED"
       ],
       "exposes": [
         "pressAction",
@@ -218,7 +222,8 @@
     },
     {
       "modelNames": [
-        "DS-1021ZC"
+        "Zemi-2-gang",
+        "Zemi-1-gang-ED"
       ],
       "exposes": [
         "relayIndicatorMode",

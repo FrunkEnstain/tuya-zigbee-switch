@@ -1,16 +1,17 @@
 [
   {
-    "fileName": "tlc_switch-1.1.2-feb16a7f-forced.zigbee",
+    "fileName": "tlc_switch-1.1.2-56f6a986-forced.zigbee",
     "fileVersion": 4294967295,
     "fileSize": 180978,
-    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/ab36028f6c8e3f8b0d81c98ae8f435a5a99a958d/bin/router/MODULE_TUYA_TS0011_DK/tlc_switch-1.1.2-feb16a7f-forced.zigbee",
-    "imageType": 46789,
+    "url": "https://github.com/FrunkEnstain/tuya-zigbee-switch/raw/refs/heads/main/bin/router/SWITCH_ZEMISMART_1_TS0012/tlc_switch-1.1.2-56f6a986-forced.zigbee",
+    "imageType": 43536,
     "manufacturerCode": 4417,
-    "sha512": "93b50c32a579f4e3ea95450e3588bcb3842a8873e961aa9f7e32f33c96cb3f6fa18b49870f8c342b17134fcac85ed0a31ccdcfac94fdd5978b659660e23dfb0d",
+    "sha512": "9f30a3a875ee43309338bd3c0da65c72c676760ca6835055b6abfa021ccf43aebdd16b408c280ee114211b541f9ba7c3d48ab86b8ec306eb69a4fe16ee9b222f",
     "otaHeaderString": "Telink OTA Image\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
     "manufacturerName": [
-      "_TZ3000_5ftkaulg",
-      "5ftkaulg"
+      "_TZ3000_zmlunnhy",
+      "Zemi-1-gang",
+      "zmlunnhy"
     ]
   }
 ]

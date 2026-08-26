@@ -360,9 +360,10 @@ const romasku = {
 const definitions = [
     {
         zigbeeModel: [
-            "DS-1021ZC",
+            "Zemi-2-gang",
+            "Zemi-1-gang-ED",
         ],
-        model: "TS0011",
+        model: "TS0012",
         vendor: "Tuya-custom",
         description: "Custom switch (https://github.com/romasku/tuya-zigbee-switch)",
         extend: [
